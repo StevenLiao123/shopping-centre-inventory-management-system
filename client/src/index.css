@@ -1,0 +1,29 @@
+:root {
+  --title-black: #414244;
+  --app-backgound-grey: #f5f6fa;
+  --card-background-white: #ffffff;
+  --card-font-color: #7d7d7d;
+  --waiting-time-title-color: #b4b4b4;
+  --waitng-time-minute-color: #c8859c;
+  --brown-grey: grey;
+
+  --font: Tahoma;
+  --XXsmall: 7px;
+  --Xsmall: 9px;
+  --small: 11px;
+  --medium: 13px;
+  --large: 15px;
+  --Xlarge: 18px;
+  --body: 13px;
+  --title: 16px;
+}
+
+html {
+  background: #ffffff;
+  color: var(--title-black);
+}
+
+#root {
+  height: 100vh;
+  overflow:hidden;
+}

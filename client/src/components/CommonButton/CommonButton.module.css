@@ -1,0 +1,12 @@
+.container {
+    padding: 10px;
+    margin: 10px;
+    background-color: var(--card-background-white);
+    border-radius: 8px;
+    transition: transform 0.5s;
+    cursor: pointer;
+}
+
+.container:active {
+    transform: translateY(-10px);
+}
